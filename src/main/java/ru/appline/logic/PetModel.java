@@ -35,9 +35,6 @@ public class PetModel implements Serializable {
         model.remove(id);
     }
 
-//    public void update(Pet pet, int id)
-//    {
-//        model.replace(id,pet);
-//    }
+
 
 }

@@ -4,11 +4,6 @@ import org.springframework.web.bind.annotation.*;
 import ru.appline.logic.Pet;
 import ru.appline.logic.PetModel;
 
-import javax.swing.*;
-import javax.websocket.server.PathParam;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.io.Writer;
 import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
 
